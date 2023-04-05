@@ -1,0 +1,30 @@
+@media (max-width: 768px ) {
+
+    h1.title {
+        font-weight: 800;
+        font-size: 40px;
+    }
+
+    header {
+        flex-direction: column;
+        justify-content: center;
+        height: 100svh;
+        justify-content: space-between;
+    }
+
+    ul {
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    .menu-item {
+        padding: 17px 38px;
+        font-size: 40px;
+    }
+    
+    .cadastro {
+        font-size: 18px;
+        padding: 15px 10px;
+        line-height: 21px;
+    }
+}
